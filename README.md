@@ -1,2 +1,2 @@
-[![](https://github-readme-stats.vercel.app/api?username=half-nothing&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![half_nothing's GitHub stats](https://github-readme-stats.vercel.app/api?username=half-nothing&show_icons=true&bg_color=00000000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=half-nothing&layout=compact&hide=Dockerfile,CMake,Batchfile&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
