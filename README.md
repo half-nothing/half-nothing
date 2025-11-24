@@ -60,10 +60,4 @@ Building systems with logic and explore the world with curiosity. My code is gro
 
 ---
 
-这个版本：
-1. 清晰展示了技术栈层次，区分主要语言和拓展语言
-2. 保持了ISTP理性务实的特点
-3. 体现了在全栈和系统级开发间的平衡能力
-4. 语言简洁专业，符合技术社区交流习惯
-
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=half-nothing&layout=compact&hide=Dockerfile,CMake,Batchfile&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
